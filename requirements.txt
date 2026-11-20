@@ -1,0 +1,2 @@
+## it lists python packages need to be installed for our library to work
+## sample: need daw mag install matplotlib (since it's one of our dependencies)
